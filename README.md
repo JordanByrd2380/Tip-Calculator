@@ -21,7 +21,9 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://j.gifs.com/gZ0RQZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+![MyGif](https://user-images.githubusercontent.com/66845608/95646509-b26c2e00-0a8e-11eb-8b12-655fd3e01f59.gif)
+
 
 
 ## Notes
